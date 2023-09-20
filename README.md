@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sasank Sah</h1>
-<h3 align="center">Currently an undergrad stdent @NITSILCHAR</h3>
+<h3 align="center">Currently grad from @NITSILCHAR</h3>
 
-<img align="right" width="400" alt="coding" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
+<div align="center" style="margin-bottom: 20px;">
+  <img width="400" alt="coding" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankytech12&label=Profile%20views&color=0e75b6&style=flat" alt="sankytech12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankytech12" alt="sankytech12" /></a> </p>
 
-- 🌱 I’m currently learning **FrontEnd**
+- 🌱 I’m currently seeking for a **JOB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sasank sah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasank sah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanky-tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasank sah" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sasank12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sasank12" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sah_sasank12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sah_sasank12" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user4828q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user4828q" height="30" width="40" /></a>
